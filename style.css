@@ -1,0 +1,38 @@
+/*SELETOR UNIVERSAL*/
+*{ margin:Opx;
+    padding:Opx;
+}
+
+
+.cabecalho{
+   background-color:rgba(6,19,95,o.705)
+   color:white
+   display:flex;
+   padding: 30px;   background-color:rgba(;
+
+   font: size 24px;
+   justify-content:space-around;
+}
+
+
+.cabecalho-imagem{
+   width: 150px;
+   height: 150px;
+}
+
+
+.cabecalho-item{
+   display:inline-block;
+   padding:0 100px;
+}
+
+/*SELECIONAR UNIVERSAL*/
+body{
+    font-family:sans-serif; 
+}
+*{margin.Opx;
+   padding:Opx;
+}
+.cabecalho{
+   background-color:rgba;(6,19,95,o.705)
+   color:
